@@ -10,7 +10,7 @@ public class ValidParentheses {
     1.Open brackets must be closed by the same type of brackets.
     2.Open brackets must be closed in the correct order.
     3.Note that an empty string is also considered valid.
-    
+
     * */
     private static boolean isValid(String s) {
 
